@@ -5,21 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="198c7c5a-12b0-44cf-bc03-84c10a07eb1a" name="Changes" comment="Commit All">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/BilgilendirmeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/Musteri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/MusteriRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/MusteriService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/examples/HesapMakinesi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/data/api/MusteriRepositoryStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/data/api/MusteriServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/HesapMakinesiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/661568170f5447ba18333beb6ca6dbd5df772776" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1c1ce625dc608dd00fa9f0917d7630dbd9d8b0c" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/AssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/BehaviourTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/DummyCustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/IgnoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/ParametreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/SuiteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/YasamDongusuTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/6/661568170f5447ba18333beb6ca6dbd5df772776" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/1/e1c1ce625dc608dd00fa9f0917d7630dbd9d8b0c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/mockito/examples/HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/examples/HesapMakinesi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +61,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AssertEasyTest.executor": "Run",
+    "JUnit.AssertEasyTest.testMetreKareHesaplama.executor": "Run",
+    "JUnit.AssertTest.testAssertions.executor": "Run",
+    "JUnit.AssertTest.testAssertionsWithNotNull.executor": "Run",
+    "JUnit.AssertTest.testAssertionsWithNull.executor": "Run",
+    "JUnit.AssertTest.testAssertionsWithSame.executor": "Run",
+    "JUnit.AssertTest.testAssertionsWithTrue.executor": "Debug",
+    "JUnit.BehaviourTest.testBehaviour.executor": "Run",
+    "JUnit.BehaviourTest.testKacKereCagirildi.executor": "Run",
     "JUnit.FirstMockitoTest.firstTest.executor": "Run",
+    "JUnit.HamcrestTest.testTemelEslestirmeler.executor": "Run",
     "JUnit.HesapMakinesiTest.executor": "Run",
     "JUnit.HesapMakinesiTest.testCikart.executor": "Run",
     "JUnit.HesapMakinesiTest.testSayidanSifirCikincaaYNİsayiKalir.executor": "Run",
     "JUnit.HesapMakinesiTest.testSifirdanCikincaEksiOlur.executor": "Run",
     "JUnit.HesapMakinesiTest.testTopla.executor": "Run",
+    "JUnit.IgnoreTest.executor": "Run",
     "JUnit.ListTest.letsMockListAnyInt.executor": "Run",
     "JUnit.ListTest.letsMockListGet.executor": "Run",
     "JUnit.ListTest.letsMockListSizeMethod.executor": "Run",
@@ -76,9 +85,15 @@
     "JUnit.ListTest.test.executor": "Run",
     "JUnit.MusteriServiceTest.testMusteriKaydet.executor": "Run",
     "JUnit.MusteriServiceTest.testMusteriSil.executor": "Run",
+    "JUnit.ParametreTest.testMetreKareHesapla.executor": "Run",
+    "JUnit.SuiteTest.executor": "Run",
     "JUnit.TodoBusinessImplMockTest.testRetrieveTodosRelatedToSpring_usingAMock.executor": "Debug",
     "JUnit.TodoBusinessImplMockTest.testRetrieveTodosRelatedToSpring_withEmptyList.executor": "Debug",
     "JUnit.TodoBusinessImplStubTest.testRetrieveTodosRelatedToSpring_usingAStub.executor": "Run",
+    "JUnit.YasamDongusuTest.executor": "Run",
+    "JUnit.YasamDongusuTest.testHelloWorld.executor": "Run",
+    "JUnit.YasamDongusuTest.testHelloWorld1.executor": "Run",
+    "JUnit.YasamDongusuTest.testHelloWorld2.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -90,7 +105,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -102,8 +117,8 @@
       <recent name="com.test.mockito.business" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MusteriServiceTest.testMusteriKaydet">
-    <configuration name="HesapMakinesiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BehaviourTest.testSirasiniKontrolEt">
+    <configuration name="BehaviourTest.testBehaviour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mockito-studies" />
       <extension name="coverage">
         <pattern>
@@ -112,83 +127,83 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.HesapMakinesiTest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.BehaviourTest" />
+      <option name="METHOD_NAME" value="testBehaviour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BehaviourTest.testKacKereCagirildi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.mockito.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.BehaviourTest" />
+      <option name="METHOD_NAME" value="testKacKereCagirildi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BehaviourTest.testSirasiniKontrolEt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.mockito.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.BehaviourTest" />
+      <option name="METHOD_NAME" value="testSirasiniKontrolEt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HamcrestTest.testTemelEslestirmeler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.mockito.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.HamcrestTest" />
+      <option name="METHOD_NAME" value="testTemelEslestirmeler" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IgnoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.mockito.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.IgnoreTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HesapMakinesiTest.testSayidanSifirCikincaaYNİsayiKalir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito-studies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.mockito.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.HesapMakinesiTest" />
-      <option name="METHOD_NAME" value="testSayidanSifirCikincaaYNİsayiKalir" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HesapMakinesiTest.testSifirdanCikincaEksiOlur" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito-studies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.mockito.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.HesapMakinesiTest" />
-      <option name="METHOD_NAME" value="testSifirdanCikincaEksiOlur" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MusteriServiceTest.testMusteriKaydet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito-studies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.mockito.data.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.mockito.data.api" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.data.api.MusteriServiceTest" />
-      <option name="METHOD_NAME" value="testMusteriKaydet" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MusteriServiceTest.testMusteriSil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito-studies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.mockito.data.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.mockito.data.api" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.data.api.MusteriServiceTest" />
-      <option name="METHOD_NAME" value="testMusteriSil" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MusteriServiceTest.testMusteriKaydet" />
-        <item itemvalue="JUnit.MusteriServiceTest.testMusteriSil" />
-        <item itemvalue="JUnit.HesapMakinesiTest" />
-        <item itemvalue="JUnit.HesapMakinesiTest.testSayidanSifirCikincaaYNİsayiKalir" />
-        <item itemvalue="JUnit.HesapMakinesiTest.testSifirdanCikincaEksiOlur" />
+        <item itemvalue="JUnit.BehaviourTest.testSirasiniKontrolEt" />
+        <item itemvalue="JUnit.BehaviourTest.testKacKereCagirildi" />
+        <item itemvalue="JUnit.BehaviourTest.testBehaviour" />
+        <item itemvalue="JUnit.HamcrestTest.testTemelEslestirmeler" />
+        <item itemvalue="JUnit.IgnoreTest" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +224,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713241467100</updated>
       <workItem from="1713241468157" duration="11172000" />
-      <workItem from="1713338798165" duration="5425000" />
+      <workItem from="1713338798165" duration="12505000" />
     </task>
     <task id="LOCAL-00001" summary="Commit All">
       <option name="closed" value="true" />
@@ -219,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713296604130</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit All">
+      <option name="closed" value="true" />
+      <created>1713348168778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713348168778</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

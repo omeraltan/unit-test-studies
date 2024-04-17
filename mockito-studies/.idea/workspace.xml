@@ -4,32 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c7c5a-12b0-44cf-bc03-84c10a07eb1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c861be23c00ddc4dc91f4aff853ed44eee6dae5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/661568170f5447ba18333beb6ca6dbd5df772776" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1c1ce625dc608dd00fa9f0917d7630dbd9d8b0c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c861be23c00ddc4dc91f4aff853ed44eee6dae5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/6/661568170f5447ba18333beb6ca6dbd5df772776" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/1/e1c1ce625dc608dd00fa9f0917d7630dbd9d8b0c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/business/TodoBusinessImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/TodoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/FirstMockitoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/business/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/business/TodoBusinessImplMockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/business/TodoBusinessImplStubTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/data/api/TodoServiceStub.java" afterDir="false" />
+    <list default="true" id="198c7c5a-12b0-44cf-bc03-84c10a07eb1a" name="Changes" comment="Commit All">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/BilgilendirmeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/Musteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/MusteriRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/MusteriService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/examples/HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/data/api/MusteriRepositoryStub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/data/api/MusteriServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/HesapMakinesiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/661568170f5447ba18333beb6ca6dbd5df772776" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1c1ce625dc608dd00fa9f0917d7630dbd9d8b0c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/6/661568170f5447ba18333beb6ca6dbd5df772776" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/1/e1c1ce625dc608dd00fa9f0917d7630dbd9d8b0c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +36,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "omeraltan"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/omeraltan/unit-test-studies.git",
+    "accountId": "08508ad0-eb80-44d1-921b-8acd09e3896b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2fAQaZX2LLoLi9qysq8IdRwbIEW" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
@@ -62,17 +64,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.FirstMockitoTest.firstTest.executor": "Run",
+    "JUnit.HesapMakinesiTest.executor": "Run",
+    "JUnit.HesapMakinesiTest.testCikart.executor": "Run",
+    "JUnit.HesapMakinesiTest.testSayidanSifirCikincaaYNİsayiKalir.executor": "Run",
+    "JUnit.HesapMakinesiTest.testSifirdanCikincaEksiOlur.executor": "Run",
+    "JUnit.HesapMakinesiTest.testTopla.executor": "Run",
     "JUnit.ListTest.letsMockListAnyInt.executor": "Run",
     "JUnit.ListTest.letsMockListGet.executor": "Run",
     "JUnit.ListTest.letsMockListSizeMethod.executor": "Run",
     "JUnit.ListTest.letsMockListSize_ReturnMultipleValues.executor": "Run",
     "JUnit.ListTest.test.executor": "Run",
+    "JUnit.MusteriServiceTest.testMusteriKaydet.executor": "Run",
+    "JUnit.MusteriServiceTest.testMusteriSil.executor": "Run",
     "JUnit.TodoBusinessImplMockTest.testRetrieveTodosRelatedToSpring_usingAMock.executor": "Debug",
     "JUnit.TodoBusinessImplMockTest.testRetrieveTodosRelatedToSpring_withEmptyList.executor": "Debug",
     "JUnit.TodoBusinessImplStubTest.testRetrieveTodosRelatedToSpring_usingAStub.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "omer",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -80,91 +90,93 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.test.mockito.data.api" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.test.mockito.business" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ListTest.letsMockListAnyInt">
-    <configuration name="ListTest.letsMockListAnyInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MusteriServiceTest.testMusteriKaydet">
+    <configuration name="HesapMakinesiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mockito-studies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.mockito.business.*" />
+          <option name="PATTERN" value="com.test.mockito.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.mockito.business" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.business.ListTest" />
-      <option name="METHOD_NAME" value="letsMockListAnyInt" />
+      <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.HesapMakinesiTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HesapMakinesiTest.testSayidanSifirCikincaaYNİsayiKalir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-studies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.mockito.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.HesapMakinesiTest" />
+      <option name="METHOD_NAME" value="testSayidanSifirCikincaaYNİsayiKalir" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.letsMockListGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HesapMakinesiTest.testSifirdanCikincaEksiOlur" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mockito-studies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.mockito.business.*" />
+          <option name="PATTERN" value="com.test.mockito.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.mockito.business" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.business.ListTest" />
-      <option name="METHOD_NAME" value="letsMockListGet" />
+      <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.HesapMakinesiTest" />
+      <option name="METHOD_NAME" value="testSifirdanCikincaEksiOlur" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.letsMockListSizeMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MusteriServiceTest.testMusteriKaydet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mockito-studies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.mockito.business.*" />
+          <option name="PATTERN" value="com.test.mockito.data.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.mockito.business" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.business.ListTest" />
-      <option name="METHOD_NAME" value="letsMockListSizeMethod" />
+      <option name="PACKAGE_NAME" value="com.test.mockito.data.api" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.data.api.MusteriServiceTest" />
+      <option name="METHOD_NAME" value="testMusteriKaydet" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.letsMockListSize_ReturnMultipleValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MusteriServiceTest.testMusteriSil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mockito-studies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.mockito.business.*" />
+          <option name="PATTERN" value="com.test.mockito.data.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.mockito.business" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.business.ListTest" />
-      <option name="METHOD_NAME" value="letsMockListSize_ReturnMultipleValues" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mockito-studies" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.mockito.business.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test.mockito.business" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.business.ListTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.test.mockito.data.api" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.data.api.MusteriServiceTest" />
+      <option name="METHOD_NAME" value="testMusteriSil" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -172,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ListTest.letsMockListAnyInt" />
-        <item itemvalue="JUnit.ListTest.letsMockListGet" />
-        <item itemvalue="JUnit.ListTest.letsMockListSize_ReturnMultipleValues" />
-        <item itemvalue="JUnit.ListTest.letsMockListSizeMethod" />
-        <item itemvalue="JUnit.ListTest.test" />
+        <item itemvalue="JUnit.MusteriServiceTest.testMusteriKaydet" />
+        <item itemvalue="JUnit.MusteriServiceTest.testMusteriSil" />
+        <item itemvalue="JUnit.HesapMakinesiTest" />
+        <item itemvalue="JUnit.HesapMakinesiTest.testSayidanSifirCikincaaYNİsayiKalir" />
+        <item itemvalue="JUnit.HesapMakinesiTest.testSifirdanCikincaEksiOlur" />
       </list>
     </recent_temporary>
   </component>
@@ -196,11 +208,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713241467100</updated>
-      <workItem from="1713241468157" duration="10184000" />
+      <workItem from="1713241468157" duration="11172000" />
+      <workItem from="1713338798165" duration="5425000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit All">
+      <option name="closed" value="true" />
+      <created>1713296604130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713296604130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit All" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit All" />
   </component>
 </project>

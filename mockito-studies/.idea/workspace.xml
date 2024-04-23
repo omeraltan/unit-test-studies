@@ -5,19 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="198c7c5a-12b0-44cf-bc03-84c10a07eb1a" name="Changes" comment="Commit All">
-      <change afterPath="$PROJECT_DIR$/src/main/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/AssertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/BehaviourTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/DummyCustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/IgnoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/ParametreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/SuiteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/examples/YasamDongusuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/0/2/028a1c9ccb638eec2b92f7ec17525d2f0ba3f934" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/6/26a3b74c75a2790a90a9212810434ce37ca588e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/b/2bf5d481512fda627c7c03fd54737590464f952e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/5/2/5276f2c7485deeec81ec68bd974b938e1d2212f7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/7/2/720e3dc5445bcb16c5b2f02e420384ff1f035703" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/7/b/7b3ec9e9d079ccd27929d321fbce634cc23a10a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/7/e/7eb7ae584358b67c4e6bd72ada5964e294bc0345" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/8/1/81cef6e0bb5f5d81f68ee9c83e030a7889d138cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/9/9/99fa29a75bde9bb056492ad00c3fcf41b1e3d3dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/9/d/9dfb15e861d3ff12a91c1c79ff3f156fe9f855df" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/a/6/a6184e4d25ca612ac4ce8cc6d2a5152fc5223ecf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/0/2/028a1c9ccb638eec2b92f7ec17525d2f0ba3f934" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/2/6/26a3b74c75a2790a90a9212810434ce37ca588e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/2/b/2bf5d481512fda627c7c03fd54737590464f952e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/5/2/5276f2c7485deeec81ec68bd974b938e1d2212f7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/7/2/720e3dc5445bcb16c5b2f02e420384ff1f035703" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/7/b/7b3ec9e9d079ccd27929d321fbce634cc23a10a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/7/e/7eb7ae584358b67c4e6bd72ada5964e294bc0345" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/8/1/81cef6e0bb5f5d81f68ee9c83e030a7889d138cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/9/9/99fa29a75bde9bb056492ad00c3fcf41b1e3d3dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/9/d/9dfb15e861d3ff12a91c1c79ff3f156fe9f855df" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/a/6/a6184e4d25ca612ac4ce8cc6d2a5152fc5223ecf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/unit-test-studies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/powermock/SystemUnderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/powermock/UtilityClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/business/MockExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/business/TodoBusinessImplMockitoInjectMocksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/document/_1Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/document/_2Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/document/_3ArgumentMatchers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/mockito/HamcrestMatchersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/mockito/SpyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/powermock/MockingStaticMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c861be23c00ddc4dc91f4aff853ed44eee6dae5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c861be23c00ddc4dc91f4aff853ed44eee6dae5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/mockito/examples/HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/examples/HesapMakinesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/mockito/business/TodoBusinessImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/business/TodoBusinessImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/mockito/data/api/TodoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/mockito/FirstMockitoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/mockito/FirstMockitoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/mockito/business/TodoBusinessImplMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/business/TodoBusinessImplMockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/mockito/data/api/TodoServiceStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/mockito/data/api/TodoServiceStub.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +76,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "omeraltan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;omeraltan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/omeraltan/unit-test-studies.git",
-    "accountId": "08508ad0-eb80-44d1-921b-8acd09e3896b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/omeraltan/unit-test-studies.git&quot;,
+    &quot;accountId&quot;: &quot;08508ad0-eb80-44d1-921b-8acd09e3896b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -70,6 +112,7 @@
     "JUnit.AssertTest.testAssertionsWithTrue.executor": "Debug",
     "JUnit.BehaviourTest.testBehaviour.executor": "Run",
     "JUnit.BehaviourTest.testKacKereCagirildi.executor": "Run",
+    "JUnit.BehaviourTest.testSirasiniKontrolEt.executor": "Run",
     "JUnit.FirstMockitoTest.firstTest.executor": "Run",
     "JUnit.HamcrestTest.testTemelEslestirmeler.executor": "Run",
     "JUnit.HesapMakinesiTest.executor": "Run",
@@ -83,6 +126,7 @@
     "JUnit.ListTest.letsMockListSizeMethod.executor": "Run",
     "JUnit.ListTest.letsMockListSize_ReturnMultipleValues.executor": "Run",
     "JUnit.ListTest.test.executor": "Run",
+    "JUnit.MockingStaticMethodTest.testMockingStaticMethod.executor": "Run",
     "JUnit.MusteriServiceTest.testMusteriKaydet.executor": "Run",
     "JUnit.MusteriServiceTest.testMusteriSil.executor": "Run",
     "JUnit.ParametreTest.testMetreKareHesapla.executor": "Run",
@@ -100,6 +144,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "omer",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/omeraltan/workspace/unit-test-studies/mockito-studies",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -111,13 +156,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.test.mockito.powermock" />
       <recent name="com.test.mockito.data.api" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.test.mockito.business" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BehaviourTest.testSirasiniKontrolEt">
+  <component name="RunManager" selected="JUnit.MockingStaticMethodTest.testMockingStaticMethod">
     <configuration name="BehaviourTest.testBehaviour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mockito-studies" />
       <extension name="coverage">
@@ -182,28 +228,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IgnoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MockingStaticMethodTest.testMockingStaticMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mockito-studies" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.mockito.examples.*" />
+          <option name="PATTERN" value="com.test.mockito.powermock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.test.mockito.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.test.mockito.examples.IgnoreTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.test.mockito.powermock" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.powermock.MockingStaticMethodTest" />
+      <option name="METHOD_NAME" value="testMockingStaticMethod" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MockingStaticMethodTest.testMockingStaticMethod" />
         <item itemvalue="JUnit.BehaviourTest.testSirasiniKontrolEt" />
         <item itemvalue="JUnit.BehaviourTest.testKacKereCagirildi" />
         <item itemvalue="JUnit.BehaviourTest.testBehaviour" />
         <item itemvalue="JUnit.HamcrestTest.testTemelEslestirmeler" />
-        <item itemvalue="JUnit.IgnoreTest" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +271,9 @@
       <option name="presentableId" value="Default" />
       <updated>1713241467100</updated>
       <workItem from="1713241468157" duration="11172000" />
-      <workItem from="1713338798165" duration="12505000" />
+      <workItem from="1713338798165" duration="13470000" />
+      <workItem from="1713419047877" duration="14000" />
+      <workItem from="1713844028545" duration="4729000" />
     </task>
     <task id="LOCAL-00001" summary="Commit All">
       <option name="closed" value="true" />
@@ -242,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713348168778</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit All">
+      <option name="closed" value="true" />
+      <created>1713355638763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713355638763</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
